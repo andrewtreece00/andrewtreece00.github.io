@@ -1,0 +1,75 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+html {
+    height: 100%;
+    width: 100%;
+  }
+   body {
+     width: 100%;
+     height: 30%;
+     font-size: 24px;
+ }
+  .logo{
+      width: 50%;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+  }
+
+  .image{
+      width: 22%;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+  }
+
+  .index{
+      Width: 40%;
+  }
+
+  header {
+      background-color: #0D1CFF;
+      padding: 100px;
+      font-size: 30px;
+      display: block;
+      width: 100%;
+      Height: 50%;
+
+  }
+  nav {
+      float: center;
+      width: 100%;
+  }
+  nav ul {
+      padding: 2%;
+      float: center;
+      border-bottom: 3px;
+      list-style-type: none;
+      font-size: 200%;
+  }
+  nav li {
+      float: center;
+  }
+  nav li a {
+      display: block;
+      height: 25px;
+      padding: 12px 18px 8px 18px;
+      vertical-align: middle;
+  }
+  a {
+      color: #FF170F;
+  }
+  section {
+      width: 73%;
+      float: left;
+      display: block;
+  }
+  footer {
+      width: 790px;
+      background-color:0D1CFF;
+      color: #E7E8E6;
+      clear: both;
+      display: block;
+  }
